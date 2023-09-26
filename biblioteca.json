@@ -1,0 +1,90 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Ficção"
+      },
+      {
+        "id": 2,
+        "nome": "Não Ficção"
+      },
+      {
+        "id": 3,
+        "nome": "História"
+      }
+    ],
+    "livros": [
+      { 
+        "id":1,
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id":2,
+        "titulo": "Origens",
+        "autor": "Neil deGrasse Tyson",
+        "anoPublicacao": 2017,
+        "isbn": "978-85-359-0650-4",
+        "disponivel": true,
+        "categoriaId": 2
+      },
+      {
+        "id":3,
+        "titulo": "Uma Breve História do Tempo",
+        "autor": "Stephen Hawking",
+        "anoPublicacao": 1988,
+        "isbn": "978-85-359-0278-0",
+        "disponivel": false,
+        "categoriaId": 2
+      },
+      {
+        "id":4,
+        "titulo": "Laranja Mecânica",
+        "autor": "Anthony Burgerss",
+        "anoPublicacao": 1962,
+        "isbn" : "978-03-930-8913-4",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id":5,
+        "titulo": "Mágico de Oz",
+        "autor": "L. Frank Baum",
+        "anoPublicacao": 1900,
+        "isbn" : "9780192728029",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id":6,
+        "titulo": "A Odisseia",
+        "autor": "Homero",
+        "anoPublicacao": "?",
+        "isbn" : "9788403870154",
+        "disponivel": false,
+        "categoriaId": 2
+      },
+      {
+        "id":7,
+        "titulo": "La planète des singes",
+        "autor": "Pierre Boulle",
+        "anoPublicacao": "1963",
+        "isbn" : "9780307792365",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id":8,
+        "titulo": "Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "anoPublicacao": "1947",
+        "isbn" : "9780141032009",
+        "disponivel": false,
+        "categoriaId": 3
+      }
+    ]
+  }
